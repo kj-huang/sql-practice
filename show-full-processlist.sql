@@ -1,0 +1,3 @@
+USE sakila;
+
+SHOW FULL PROCESSLIST;
